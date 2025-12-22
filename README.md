@@ -32,8 +32,9 @@ Dive into four comprehensive digital forensics investigations covering:
 
 | Sherlock | Release Date | Status | PDF |
 |:---------:|:------------:|:------:|:---:|
+| **Part 0** | December 22, 2025 | 🎁 | [📄 PDF](Part%200%20-%20Introduction.pdf) |
 | **Part 1** | December 25, 2025 | 🔒 | Coming Soon |
-| **Part 2** | December 25, 2025 | 🔒 | Coming Soon |
+| **Part 2** | December 25, 2025 | 🔒 | N/A |
 | **Part 3** | January 1, 2026 | 🔒 | Coming Soon |
 | **Part 4** | January 8, 2026 | 🔒 | Coming Soon |
 
